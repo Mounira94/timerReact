@@ -1,13 +1,13 @@
 {
-  "main.css": "/timerReact/static/css/main.10bb2cea.chunk.css",
-  "main.js": "/timerReact/static/js/main.cfeedaa7.chunk.js",
-  "main.js.map": "/timerReact/static/js/main.cfeedaa7.chunk.js.map",
-  "static/js/1.f0a4ce05.chunk.js": "/timerReact/static/js/1.f0a4ce05.chunk.js",
-  "static/js/1.f0a4ce05.chunk.js.map": "/timerReact/static/js/1.f0a4ce05.chunk.js.map",
-  "runtime~main.js": "/timerReact/static/js/runtime~main.5dc0662f.js",
-  "runtime~main.js.map": "/timerReact/static/js/runtime~main.5dc0662f.js.map",
-  "static/css/main.10bb2cea.chunk.css.map": "/timerReact/static/css/main.10bb2cea.chunk.css.map",
-  "index.html": "/timerReact/index.html",
-  "precache-manifest.76cf57f13ea7888ab5b74642aacfc09b.js": "/timerReact/precache-manifest.76cf57f13ea7888ab5b74642aacfc09b.js",
-  "service-worker.js": "/timerReact/service-worker.js"
+  "main.css": "/movie-react-app/static/css/main.10bb2cea.chunk.css",
+  "main.js": "/movie-react-app/static/js/main.af9edd93.chunk.js",
+  "main.js.map": "/movie-react-app/static/js/main.af9edd93.chunk.js.map",
+  "static/js/1.f0a4ce05.chunk.js": "/movie-react-app/static/js/1.f0a4ce05.chunk.js",
+  "static/js/1.f0a4ce05.chunk.js.map": "/movie-react-app/static/js/1.f0a4ce05.chunk.js.map",
+  "runtime~main.js": "/movie-react-app/static/js/runtime~main.3ca80046.js",
+  "runtime~main.js.map": "/movie-react-app/static/js/runtime~main.3ca80046.js.map",
+  "static/css/main.10bb2cea.chunk.css.map": "/movie-react-app/static/css/main.10bb2cea.chunk.css.map",
+  "index.html": "/movie-react-app/index.html",
+  "precache-manifest.e251d2958d243b0481bce43c55143eb8.js": "/movie-react-app/precache-manifest.e251d2958d243b0481bce43c55143eb8.js",
+  "service-worker.js": "/movie-react-app/service-worker.js"
 }
